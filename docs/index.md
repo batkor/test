@@ -1,9 +1,9 @@
 ---
 title: Drupal Commerce
-slug: Web/HTML/Element/abbr
+slug: /
 tags:
   Drupal Commerce
   Drupal Интернет Магазин
 ---
-Лидирущий модуль для электронной комерциии в Drupal.
+Лидирующий модуль для электронной коммерции в Drupal.\
 Более 50000 интернет магазинов работают на Drupal Commerce.

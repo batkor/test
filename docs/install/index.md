@@ -1,7 +1,7 @@
 ---
 title: Установка
 slug: /install
-tags:
+tags
   Drupal Commerce установка
   Drupal Интернет Магазин установка
 ---
